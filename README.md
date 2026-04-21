@@ -12,9 +12,6 @@ Me chamo Eric Santana, atualmente, sou graduando no 7º período de Engenharia d
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
-Sou um profissional **dedicado, comunicativo** e sempre em busca de novos desafios para crescer na área de tecnologia. 🚀
-
 ---
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=EricSantana&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180px"/>

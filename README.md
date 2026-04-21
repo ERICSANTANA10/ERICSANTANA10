@@ -1,18 +1,10 @@
-Olá, sou o Eric Santana
+# 👨‍💻 Eric Santana
 
-<h1 align="center">Eric Santana</h1>
-<h3 align="center">Desenvolvedor de Software</h3>
+**`Desenvolvedor de Software`**
 
-## 📊 **GitHub Stats**
+## Sobre mim
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricSantana&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricSantana&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
-</div>
-
-## 👨‍💻 Sobre mim
-
-Atualmente, sou **graduando no 7º período de Engenharia da Computação** pela UNINASSAU. Com uma trajetória que une a precisão da indústria automotiva à dinâmica da educação tecnológica, estou focado em consolidar-me como um **Desenvolvedor de Software** sólido e versátil.
+Me chamo Eric Santana, atualmente sou **graduando no 7º período de Engenharia da Computação** pela UNINASSAU. Com uma trajetória que une a precisão da indústria automotiva à dinâmica da educação tecnológica, estou focado em consolidar-me como um **Desenvolvedor de Software** sólido e versátil.
 
 **O que eu faço:**
 * **Desenvolvimento:** Tenho conhecimentos em **Java, Python e JavaScript**, com foco na criação de soluções eficientes e bem estruturadas. 
@@ -22,7 +14,10 @@ Atualmente, sou **graduando no 7º período de Engenharia da Computação** pela
 Sou um profissional **dedicado, comunicativo** e sempre em busca de novos desafios para crescer na área de tecnologia. 🚀
 
 ---
-
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=EricSantana&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricSantana&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
+</div>
 
 
 ## 🛠 Skills  

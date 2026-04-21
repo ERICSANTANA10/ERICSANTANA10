@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Me chamo Eric Santana, atualmente sou **graduando no 7º período de Engenharia da Computação** pela UNINASSAU. Com uma trajetória que une a precisão da indústria automotiva à dinâmica da educação tecnológica, estou focado em consolidar-me como um **Desenvolvedor de Software** sólido e versátil.
+Me chamo Eric Santana, atualmente, sou graduando no 7º período de Engenharia da Computação pela UNINASSAU. Minha trajetória profissional transita entre a precisão da indústria automotiva e a educação tecnológica, o que me deu uma visão prática e analítica para resolver problemas complexos através do código, estou focado em consolidar-me como um **Desenvolvedor de Software** sólido e versátil.
 
 **O que eu faço:**
 * **Desenvolvimento:** Tenho conhecimentos em **Java, Python e JavaScript**, com foco na criação de soluções eficientes e bem estruturadas. 

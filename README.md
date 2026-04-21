@@ -1,11 +1,8 @@
-# 👨‍💻 Eric Santana
-
-**`Desenvolvedor de Software`**
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39FF14&size=35&center=true&vCenter=true&width=1000&lines=Eric+Santana;Desenvolvedor+de+Software)](https://git.io/typing-svg)
 ## Sobre mim
 
 Me chamo Eric Santana, atualmente, sou graduando no 7º período de Engenharia da Computação pela UNINASSAU. Minha trajetória profissional transita entre a precisão da indústria automotiva e a educação tecnológica, o que me deu uma visão prática e analítica para resolver problemas complexos através do código, estou focado em consolidar-me como um **Desenvolvedor de Software** sólido e versátil.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9900FF&size=20&center=false&vCenter=false&width=1000&lines=Tech+Stack:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=false&vCenter=false&width=1000&lines=Tech+Stack:)](https://git.io/typing-svg)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40" />
@@ -17,7 +14,7 @@ Me chamo Eric Santana, atualmente, sou graduando no 7º período de Engenharia d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 Sou um profissional **dedicado, comunicativo** e sempre em busca de novos desafios para crescer na área de tecnologia. 🚀
 
 ---

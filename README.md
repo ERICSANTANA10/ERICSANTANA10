@@ -1,26 +1,55 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+Olá, sou o Eric Santana
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+<h1 align="center">Eric Santana</h1>
+<h3 align="center">Desenvolvedor de Software</h3>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+## 👨‍💻 Sobre mim
+
+Atualmente, sou **graduando no 7º período de Engenharia da Computação** pela UNINASSAU. Com uma trajetória que une a precisão da indústria automotiva à dinâmica da educação tecnológica, estou focado em consolidar-me como um **Desenvolvedor de Software** sólido e versátil.
+
+**O que eu faço:**
+* **Desenvolvimento:** Tenho conhecimentos em **Java, Python e JavaScript**, com foco na criação de soluções eficientes e bem estruturadas. 
+* **Dados e Negócios:** Utilizo **SQL, Power BI e Excel** para análise de dados e suporte à tomada de decisão. 
+* **Experiência Prática:** Atuei na **Secretaria de Educação de Paulista**, onde combinei suporte técnico com o ensino de **robótica e informática**, desenvolvendo materiais didáticos e orientando alunos em competições de tecnologia. 
+
+Sou um profissional **dedicado, comunicativo** e sempre em busca de novos desafios para crescer na área de tecnologia. 🚀
+
+---
+
+## 📊 **GitHub Stats**
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=EricSantana&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricSantana&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+
+
+## 🛠 Skills  
+
+### 🔹 **Linguagens**  
+
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
+### 🔹 **Banco de Dados & Backend**  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🔹 **Ferramentas & Versionamento**  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Conheça-me mais...
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/ericmbdesantana/)
+
+---
+
+## 📬 **Entre em Contato!**
+📩 **Email:** [santanaeric162@gmail.com](mailto:santanaeric162@gmail.com)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/ericmbdesantana/](https://www.linkedin.com/in/ericmbdesantana/)    
+👾 **Discord:** [ericsantana10](https://discord.com/users/ericsantana10)  

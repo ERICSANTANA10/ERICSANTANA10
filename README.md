@@ -2,16 +2,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=false&vCenter=false&width=1000&lines=Tech+Stack:)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+ <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+</p>
 </p>
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=ERICSANTANA10&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICSANTANA10&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook&langs_count=8" alt="Top Langs" height="180px" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICSANTANA10&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" height="180px" />
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ERICSANTANA10/ERICSANTANA10/output/github-contribution-grid-snake.svg" alt="Snake animation" />

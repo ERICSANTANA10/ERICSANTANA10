@@ -1,1 +1,1 @@
-*.ipynb linguist-language=Python linguist-detectable=true
+jupyter nbconvert --to script seu_arquivo.ipynb

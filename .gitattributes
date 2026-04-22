@@ -1,1 +1,2 @@
-jupyter nbconvert --to script seu_arquivo.ipynb
+*.ipynblinguist-language=Python
+dados.csvlinguist-vendored

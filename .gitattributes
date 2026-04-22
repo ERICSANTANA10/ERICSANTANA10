@@ -1,2 +1,2 @@
-*.ipynblinguist-language=Python
-dados.csvlinguist-vendored
+*.ipynb linguist-language=Python
+dados.csv linguist-vendored

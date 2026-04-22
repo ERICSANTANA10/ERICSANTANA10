@@ -15,11 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICSANTANA10&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180px" />
 </div>
 
-</div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ERICSANTANA10/ERICSANTANA10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-</div>
 
 
 ## 🛠 Skills  

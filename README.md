@@ -11,8 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
 </p>
 </p>
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ERICSANTANA10&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICSANTANA10&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" alt="Top Langs" height="180px" />alt="GitHub Stats" height="180px" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICSANTANA10&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" height="180px" />
 </div>
 <p align="center">

@@ -11,8 +11,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
 </p>
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
- <img src="https://github-readme-stats.vercel.app/api?username=ERICSANTANA10&show_icons=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICSANTANA10&layout=compact&title_color=00ff41&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ERICSANTANA10&show_icons=true&title_color=00dfff&icon_color=00dfff&text_color=ffffff&bg_color=4b0082&border_color=00dfff&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICSANTANA10&layout=compact&title_color=00dfff&text_color=ffffff&bg_color=4b0082&border_color=00dfff&hide_border=false" alt="Top Langs" height="180px" />
  
 ## 🛠 Skills  
 

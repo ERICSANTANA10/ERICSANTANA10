@@ -22,7 +22,8 @@
 </picture>
 </picture>
 
-### 🔹 🛠 Skills  
+##  🛠 Skills  
+
 
 ### 🔹 **Linguagens**  
 

@@ -14,12 +14,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ERICSANTANA10&show_icons=true&title_color=00bcff&icon_color=00bcff&text_color=00bcff&bg_color=000000&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICSANTANA10&layout=compact&title_color=00bcff&text_color=00bcff&bg_color=000000&hide_border=true" alt="Top Langs" height="180px" />
 
-  <picture align="center">
+ <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ERICSANTANA10/ERICSANTANA10/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ERICSANTANA10/ERICSANTANA10/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ERICSANTANA10/ERICSANTANA10/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ERICSANTANA10/ERICSANTANA10/output/github-contribution-grid-snake.svg">
 </picture>
- 
 ## 🛠 Skills  
 
 ### 🔹 **Linguagens**  

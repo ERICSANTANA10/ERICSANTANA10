@@ -21,7 +21,8 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ERICSANTANA10/ERICSANTANA10/output/github-contribution-grid-snake.svg?v=azul">
 </picture>
 </picture>
-## 🛠 Skills  
+
+### 🔹 🛠 Skills  
 
 ### 🔹 **Linguagens**  
 

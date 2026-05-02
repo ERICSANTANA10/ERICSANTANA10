@@ -10,10 +10,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" title="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
 </p>
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ERICSANTANA10&show_icons=true&title_color=00bcff&icon_color=00bcff&text_color=00bcff&bg_color=000000&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICSANTANA10&layout=compact&title_color=00bcff&text_color=00bcff&bg_color=000000&hide_border=true" alt="Top Langs" height="180px" />
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ERICSANTANA10&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ERICSANTANA10&layout=compact&theme=tokyonight" alt="Principais idiomas" height="180" />
+</p>
  <picture align="center">
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ERICSANTANA10/ERICSANTANA10/output/github-contribution-grid-snake-dark.svg?v=azul">

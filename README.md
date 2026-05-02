@@ -1,15 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39FF14&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Eric+Santana;Desenvolvedor+de+Software)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=false&vCenter=false&width=1000&lines=Tech+Stack:)](https://git.io/typing-svg)
+<h2 align="center">⚡Tech Stack</h2>
 
-<p>
- <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,git,github,vscode&theme=dark" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ERICSANTANA10&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ERICSANTANA10&layout=compact&theme=tokyonight" alt="Principais idiomas" height="180" />

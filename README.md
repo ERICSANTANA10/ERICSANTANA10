@@ -3,7 +3,7 @@
 <h2 align="center">⚡Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,cpp,github,vscode&theme=dark" />
 </p>
 
 <p align="center">

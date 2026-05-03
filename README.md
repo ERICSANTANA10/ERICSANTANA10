@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39FF14&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Eric+Santana;Desenvolvedor+de+Software)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=false&vCenter=false&width=1000&lines=Tech+Stack:)](https://git.io/typing-svg)
-<h2 align="center">⚡Tech Stack</h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=true&vCenter=true&width=1000&lines=Tech+Stack: )](https://git.io/typing-svg)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,mysql,cpp,github,vscode&theme=dark" />
 </p>

@@ -10,6 +10,8 @@ on:
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
@@ -17,8 +19,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate-snake-and-pacman
-        uses: Platane/snk@v3
+      - name: generate-snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -39,5 +41,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -20,8 +20,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Definindo a cobrinha roxo neon e os pontos em azul marinho neon
-          outputs: |
+       outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#bc13fe&color_dots=#000033,#000080,#0000ff,#1e90ff,#00ffff
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#bc13fe&color_dots=#000033,#000080,#0000ff,#1e90ff,#00ffff
 

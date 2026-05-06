@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ERICSANTANA10&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ERICSANTANA10&layout=compact&theme=tokyonight" alt="Principais idiomas" height="180" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ERICSANTANA10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ERICSANTANA10&layout=compact&theme=tokyonight&hide_border=true" alt="Principais idiomas" height="180" />
 </p>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ERICSANTANA10&theme=tokyonight&hide_border=true&background=0D1117&ring=00f7ff&fire=8A2BE2&currStreakLabel=00f7ff"/>

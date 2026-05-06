@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Generate Animations
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
   push:
     branches:
@@ -10,12 +10,13 @@ on:
 
 jobs:
   generate:
-    permissions:
+    permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
+    timeout-minutes: 10
+    
     steps:
+      # CONFIGURAÇÃO DA COBRA (SNAKE)
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -24,7 +25,18 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=#bc13fe&color_dots=#00ffff,#000080,#000080,#00ff00,#00ff00
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#bc13fe&color_dots=#00ffff,#000080,#000080,#00ff00,#00ff00
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # CONFIGURAÇÃO DO PACMAN
+      - name: generate pacman.svg
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/pacman.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      # ENVIO PARA A BRANCH OUTPUT
+      - name: push animations to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

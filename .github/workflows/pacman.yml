@@ -30,10 +30,11 @@ jobs:
           svg_out_path: dist/pacman-contribution-graph-dark.svg
           theme: dark
 
-      - name: push files to the output branch
+         - name: push files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

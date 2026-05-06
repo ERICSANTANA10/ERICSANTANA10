@@ -17,31 +17,71 @@ jobs:
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
-        with:
+        withPara garantir que o seu perfil de **Engenheiro de Computação** e **Maker** tenha um sistema estável, onde tanto a **cobrinha** quanto o **Pacman** funcionem juntos sem erros de "push", utilize este modelo consolidado no seu arquivo `snake.yml`:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            github-contribution-grid-snake.svg?color_snake=#bc13fe&color_dots=#00ffff,#000080,#000080,#00ff00,#00ff00
-            github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#bc13fe&color_dots=#00ffff,#000080,#000080,#00ff00,#00ff00
+            dist/github-contribution-grid-snake.svg?color_snake=#bc13fe&color_dots=#00ffff,#000080,#000080,#00ff00,#00ff00
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#bc13fe&color_dots=#00ffff,#000080,#000080,#00ff00,#00ff00
 
       - name: generate pacman.svg
         uses: lowlighter/metrics@latest
         with:
-          filename: pacman.svg
+          filename: dist/pacman.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
       - name: push animations to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses::
+```yaml
+name: Generate Animations
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" 
+  workflow_dispatch:```
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#bc13fe&color_dots=#00ffff,#000080,#000080,#00ff00,#00ff00
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#bc13fe&color_dots=#00ffff,#000080,#000080,#00ff00,#00ff00
+
+      - name: generate pacman.svg
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/pacman.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      - name: push animations to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: .
-          keep_files: true
+          build_dir: dist
           commit_message: "Update Snake and Pacman animations [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

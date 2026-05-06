@@ -20,10 +20,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # AQUI ESTÁ A MÁGICA: Definindo as cores neon azul
+          # Definindo a cobrinha roxo neon e os pontos em azul marinho neon
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#7bed9f&color_dots=#bfdbfe,#60a5fa,#3b82f6,#1d4ed8,#000000
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7bed9f&color_dots=#bfdbfe,#60a5fa,#3b82f6,#1d4ed8,#000000
+            dist/github-contribution-grid-snake.svg?color_snake=#bc13fe&color_dots=#000033,#000080,#0000ff,#1e90ff,#00ffff
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#bc13fe&color_dots=#000033,#000080,#0000ff,#1e90ff,#00ffff
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

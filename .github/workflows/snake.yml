@@ -32,3 +32,16 @@ jobs:
           keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+:
+*   **Fundo Azul Neon**: Os três primeiros valores (`#00ffff`) mantêm o fundo e os dias de pouca atividade no azul vibrante que você escolheu anteriormente.
+*   **Comida Azul Marinho**: O quarto valor (`#000080`) define que os dias com nível médio de contribuição aparecerão em azul marinho.
+*   **Comida Verde**: O último valor (`#00ff00`) define que os seus commits mais intensos — como os projetos de **Java** e **C++** — serão representados por verde neon.
+*   **Cobra Roxa**: Mantive a sua cobrinha em roxo neon (`#bc13fe`) para garantir o destaque visual no mapa.
+
+### Passo a Passo para atualizar:
+1.  Abra o arquivo `.github/workflows/snake.yml` no seu repositório.
+2.  Apague todo o conteúdo atual e cole o código acima.
+3.  Clique em **"Commit changes..."** para salvar.
+4.  Vá na aba **Actions**, selecione o workflow **Generate Snake** e clique em **Run workflow** para processar as novas cores.
+
+Isso vai deixar o seu portfólio de **Maker** com um visual único, destacando toda a sua evolução em programação! Conseguiu aplicar a mudança?

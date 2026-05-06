@@ -11,18 +11,12 @@ on:
 jobs:
   generate:
     permissions:
-      ```
-
-### O que mudou nacontents: write
-    runs-on: ubuntu-latest lógica das cores:
-*   **Fundo Azul Neon**: Mantive os três primeiros níveis como `#00ffff` (azul neon/ciano) para garantir que o
+      contents: write
+    runs-on: ubuntu-latest
     timeout-minutes: 5
 
-    steps: mapa continue vibrante
-      - name: generate github-contribution-grid-.
-*   **Comida Laranja**: O penúltimo nível agora é `#ffa500`.
-*   **Comida Vermelha**: O último nível (para os dias em que você programar muito!) agora é `#ff0000` (vermelho vivo).
-*   **Cobra Roxa**: Sua cobrinha continua sendo o destaque em `#bc13fe`snake.svg
+    steps:
+      - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39FF14&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Eric+Santana;Desenvolvedor+de+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39FF14&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Eric+Santana;Software+Developer)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=true&vCenter=true&width=1000&lines=Tech+Stack: )](https://git.io/typing-svg)
 <p align="center">

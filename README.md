@@ -8,9 +8,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericsantana10&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericsantana10&theme=tokyonight" alt="Top Langs" />
 </p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ERICSANTANA10&theme=tokyonight&hide_border=true&background=0D1117&ring=00f7ff&fire=8A2BE2&currStreakLabel=00f7ff" alt="GitHub Streak" />
 </p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ERICSANTANA10/ERICSANTANA10/output/pacman-contribution-graph-dark.svg">
